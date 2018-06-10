@@ -2,7 +2,7 @@
 <package>
 <name>barrel_detector</name>
 <version>1.0.0</version>
-<description>The barrel_detector this package detect baller with laser scanner data</description>
+<description>The barrel_detector this package detect barrel with laser scanner data</description>
 
   <author>Sara Tohidi</author>
   <maintainer email="tohidi.sara.d@gmail.com">delnia</maintainer>
